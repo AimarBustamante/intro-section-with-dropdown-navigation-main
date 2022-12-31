@@ -4,4 +4,19 @@
 
 ## Welcome! 👋
 
-Live site: https://aimarbustamante.github.io/intro-section-with-dropdown-navigation-main/
+### Links
+
+- Solution: https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-mAE4TsSHVG
+- Live Site: https://aimarbustamante.github.io/intro-section-with-dropdown-navigation-main/
+
+## My process
+
+### Built with
+
+- HTML
+- CSS
+
+## Author
+
+- Website - [Aimar Bustamante](https://aimarbusta.netlify.app/)
+- Frontend Mentor - [@AimarBustamante](https://www.frontendmentor.io/profile/AimarBustamante)
